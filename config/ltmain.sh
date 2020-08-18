@@ -1,0 +1,1 @@
+/opt/icchain/cometh77b/share/libtool/build-aux/ltmain.sh
